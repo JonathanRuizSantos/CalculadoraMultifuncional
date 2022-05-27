@@ -1,0 +1,111 @@
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\bin\Debug\WF_Calculadora.exe.config
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\bin\Debug\WF_Calculadora.exe
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\bin\Debug\WF_Calculadora.pdb
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.exe
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora\obj\Debug\WF_Calculadora.pdb
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.exe
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\obj\Debug\WF_Calculadora.pdb
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\bin\Debug\WF_Calculadora.exe.config
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\bin\Debug\WF_Calculadora.exe
+C:\Users\jon_r\Documents\VISUAL STUDIO IS\WF_Calculadora_P14\bin\Debug\WF_Calculadora.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\bin\Debug\WF_Calculadora_P15.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\bin\Debug\WF_Calculadora_P15.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\bin\Debug\WF_Calculadora_P15.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora_P15.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P15\obj\Debug\WF_Calculadora_P15.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\bin\Debug\WF_Calculadora_P16.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\bin\Debug\WF_Calculadora_P16.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\bin\Debug\WF_Calculadora_P16.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora_P16.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16\obj\Debug\WF_Calculadora_P16.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\bin\Debug\WF_Calculadora_P16.1.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\bin\Debug\WF_Calculadora_P16.1.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\bin\Debug\WF_Calculadora_P16.1.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora_P16.1.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P16.1\obj\Debug\WF_Calculadora_P16.1.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\bin\Debug\WF_Calculadora_P18.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\bin\Debug\WF_Calculadora_P18.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\bin\Debug\WF_Calculadora_P18.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora_P18.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\COPIAS\WF_Calculadora_P18\obj\Debug\WF_Calculadora_P18.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\bin\Debug\WF_Calculadora_P19.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\bin\Debug\WF_Calculadora_P19.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\bin\Debug\WF_Calculadora_P19.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora_P19.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PRACTICAS\WF_Calculadora_P19\obj\Debug\WF_Calculadora_P19.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\bin\Debug\Proyecto5_Calculadora.exe.config
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\bin\Debug\Proyecto5_Calculadora.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\bin\Debug\Proyecto5_Calculadora.pdb
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\Proyecto5_Calculadora.exe
+C:\Users\jon_r\OneDrive - Instituto Politecnico Nacional\Proyectos de Sotwares\VISUAL STUDIO IS\PROYECTOS\Proyecto5_Calculadora90Ops\obj\Debug\Proyecto5_Calculadora.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\bin\Debug\Proyecto5_Calculadora.exe.config
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\bin\Debug\Proyecto5_Calculadora.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\bin\Debug\Proyecto5_Calculadora.pdb
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\bin\Debug\info.lundin.math.dll
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.Form1.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.Properties.Resources.resources
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\WF_Calculadora.csproj.CopyComplete
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\Proyecto5_Calculadora.exe
+C:\Users\jon_r\Documents\PROYECTOS DE SOFTWARE\Visual Studio\Proyecto5_CalculadoraPersonal\obj\Debug\Proyecto5_Calculadora.pdb

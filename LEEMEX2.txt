@@ -1,0 +1,36 @@
+1) 555C1T1yT2  //CALCULO DE T1 Y T2
+Dato1: Frecuencia
+Dato2: -
+Dato3: -
+
+2) 555C1R2  //CALCULO DE R2
+Dato1: Frecuencia
+Dato2: C1
+Dato3: -
+
+3) 555C1NR2  //CALCULO DE R2 NORMALIZADA Y R1 SIN NORMALIZAR
+Dato1: R2menorComercial
+Dato2: R2mayorComercial
+Dato3: C1
+Dato4: T1
+Dato5: T2
+
+4) 555C1NR1  //CALCULO DE R1 NORMALIZADO
+Dato1: R1menorComercial
+Dato2: R1mayorComercial
+Dato3: C1
+Dato4: T1
+Dato5: T2
+Dato6: R2normalzada
+--------------------------
+¿COMO INGRESAR LOS DATOS?
+
+Dato1: Frecuencia
+Dato2: C1
+Dato3: T1
+Dato4: T2
+Dato5: R2menorComercial
+Dato6: R2mayorComercial
+Dato7: R2Normalizada
+Dato8: R1menorComercial
+Dato9: R1mayorComercial
